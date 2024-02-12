@@ -28,8 +28,16 @@ The data has been provided with a dataset called `schools.csv`. We will try to a
 
 `Matplotlib` and `Seaborn` for data visualization
 
-## Learn More
-### Documentation
-- [Pandas user guide & API references](https://pandas.pydata.org/docs/index.html)
-- [Matplotlib user guide & tutorials](https://matplotlib.org/stable/)
-- [Seaborn tutorial](https://seaborn.pydata.org/tutorial.html)
+## How to Run
+clone:
+```sh
+git clone https://github.com/handebasaka/datacamp-projects
+```
+open the solution file:
+```bash
+cd datacamp-projects/'exploring-nyc-public-school-test-result-scores'
+```
+run python script:
+```bash
+python3 solution.py
+```

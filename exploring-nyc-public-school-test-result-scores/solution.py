@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Read in the data
-schools = pd.read_csv("Analyzing NYC Public School Test Result Scores/datasets/schools.csv")
+schools = pd.read_csv("./datasets/schools.csv")
 
 # Preview the data
 schools.head()
