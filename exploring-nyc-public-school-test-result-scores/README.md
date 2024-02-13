@@ -1,4 +1,4 @@
-## Introduction to the Data
+## Introduction to the 'Exploring NYC Public School Test Result Scores'
 
 Every year, American high school students take SATs, which are standardized tests intended to measure literacy, numeracy, and writing skills. There are three sections - reading, math, and writing, each with a maximum score of 800 points. These tests are extremely important for students and colleges, as they play a pivotal role in the admissions process.
 
@@ -35,7 +35,7 @@ git clone https://github.com/handebasaka/datacamp-projects
 ```
 open the solution file:
 ```bash
-cd datacamp-projects/'exploring-nyc-public-school-test-result-scores'
+cd datacamp-projects/exploring-nyc-public-school-test-result-scores
 ```
 run python script:
 ```bash
