@@ -6,6 +6,7 @@ This project contains a series of projects I completed using Python in the
 ### Projects
 - [Exploring NYC Public School Test Result Scores](./exploring-nyc-public-school-test-result-scores)
 - [Investing Netflix Movies](./investigating-netflix-movies)
+- [Visualizing the History of Nobel Prize Winners](./visualizing-the-history-of-nobel-prize-winners)
 
 ## Learn More
 ### Documentation
