@@ -8,6 +8,7 @@ This project contains a series of projects I completed using Python in the
 - [Investing Netflix Movies](./investigating-netflix-movies)
 - [Visualizing the History of Nobel Prize Winners](./visualizing-the-history-of-nobel-prize-winners)
 - [Analyzing Crime in Los Angeles](./analizing-crime-in-los-angeles)
+- [Dr. Semmelweis and the Discovery of Handwashing](./dr-semmelweis-and-the-discovery-of-handwashing)
 
 ## Learn More
 ### Documentation
